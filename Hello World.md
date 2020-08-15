@@ -6,11 +6,8 @@ output: word_document
 ---
 
 ## This is a markdown file
-
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{python}
+print("Hello to whoever is checking my assignment. Hope you have a nice day!")
 ```
 
 ## R Markdown
